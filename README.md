@@ -1,4 +1,4 @@
-# Blog-Website
+# Flask-Blog (Website)
 This is a Blog created by Kevin Montero using Python(flask), SQAlchemy, css and html.
 
 Requeriments to run this project:
